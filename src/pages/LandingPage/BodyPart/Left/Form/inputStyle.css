@@ -1,0 +1,9 @@
+.style-input {
+  border: none;
+  width: 50px;
+  text-align: right;
+}
+.style-input:focus {
+  /* border-color: transparent; */
+  outline: none;
+}
